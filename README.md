@@ -15,6 +15,3 @@ The code was tested with `python 3.8`, if you're using a different version your 
 
 ## Acknowledgement
 Finally, we also thank the support of other projects including `CyNER`(https://github.com/aiforsec/CyNER), `EXTRACTOR`(https://github.com/ksatvat/EXTRACTOR), etc.
-
-## License
-This project is MIT licensed, as found in the LICENSE file.

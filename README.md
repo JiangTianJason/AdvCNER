@@ -1,6 +1,6 @@
 # AdvCNER
 
-Step 1: Install the dependency SeqAttack/requirements.txt
+Step 1: Install the dependency from SeqAttack/requirements.txt
 
 Step 2: Update files in corresponding project, including SeqAttack(https://github.com/WalterSimoncini/SeqAttack) and TextAttack(https://github.com/QData/TextAttack).
 

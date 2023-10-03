@@ -1,7 +1,6 @@
 # AdvCNER (Adversarial Cybersecurity NER)
 
 [![dataet: released](https://img.shields.io/badge/dataset-released-green.svg)](https://github.com/JiangTianJason/AdvCNER/SeqAttack/datasets/mitre)
-[![license: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Setup
 The code was tested with `python 3.8`, if you're using a different version your mileage may vary.

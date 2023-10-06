@@ -16,7 +16,7 @@ The code was tested with `python 3.8`, if you're using a different version your 
 [BERT](https://drive.google.com/drive/folders/1044-PVu4hyG-Vz0MCvACJd2JRz5SvAgS?usp=sharing), [ALBERT](https://drive.google.com/drive/folders/12h3e0oXr95-3GK0Og0u4VLYjZqz0wYzf?usp=sharing), [XLM-RoBERTa](https://drive.google.com/drive/folders/1vIFHu5_xlfsEMcbP8b-EfWHg3UxVkqTr?usp=sharing)
 
 ## :footprints:Acknowledgements
-Finally, we also thank the support of other projects including `CyNER`(https://github.com/aiforsec/CyNER), `EXTRACTOR`(https://github.com/ksatvat/EXTRACTOR), etc.
+Finally, we also thank the support of other projects including `CyNER`(https://github.com/aiforsec/CyNER), `EXTRACTOR`(https://github.com/ksatvat/EXTRACTOR), `OpenAttack` (https://github.com/thunlp/OpenAttack), etc.
 
 ## :movie_camera:Trademarks
 This project may contain trademarks or logos for projects, products, or services. Any use of third-party trademarks or logos are subject to those third-party's policies.

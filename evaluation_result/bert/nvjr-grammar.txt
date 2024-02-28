@@ -1,0 +1,135 @@
+{'Grammatical Errors': 3, 'label_switching': [['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Organization']], 'original_score': 7.647892198292539e-05, 'perturbed_score': 0.10418582707643509}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 7.938623457448557e-05, 'perturbed_score': 0.12155791372060776}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 7.814168930053711e-05, 'perturbed_score': 0.14295656979084015}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 5.066121957497671e-05, 'perturbed_score': 0.1256493777036667}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'B-Vulnerability'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Vulnerability'], ['O', 'I-System'], ['O', 'I-Vulnerability']], 'original_score': 0.00019044183136429638, 'perturbed_score': 0.21722064912319183}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'I-Vulnerability'], ['B-System', 'B-Vulnerability']], 'original_score': 0.021226687356829643, 'perturbed_score': 0.13647188246250153}
+{'Grammatical Errors': 3, 'label_switching': [['B-Organization', 'B-System'], ['O', 'B-Malware']], 'original_score': 0.001147837028838694, 'perturbed_score': 0.11126291751861572}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 7.1721151471138e-05, 'perturbed_score': 0.2189188003540039}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Organization']], 'original_score': 7.024221849860623e-05, 'perturbed_score': 0.10550964623689651}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['B-System', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.006206348072737455, 'perturbed_score': 0.17414698004722595}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Organization']], 'original_score': 5.9194426285102963e-05, 'perturbed_score': 0.11774013936519623}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Organization'], ['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'I-Organization']], 'original_score': 0.00017325517546851188, 'perturbed_score': 0.11874452978372574}
+{'Grammatical Errors': 9, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 4.1806437366176397e-05, 'perturbed_score': 0.1195569559931755}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 8.914531645132229e-05, 'perturbed_score': 0.111418716609478}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 0.0003490149392746389, 'perturbed_score': 0.14311593770980835}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 0.00014955764345359057, 'perturbed_score': 0.16891591250896454}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.00010315577674191445, 'perturbed_score': 0.38595637679100037}
+{'Grammatical Errors': 6, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Organization'], ['O', 'I-Malware'], ['O', 'I-Organization']], 'original_score': 5.0614045903785154e-05, 'perturbed_score': 0.12903085350990295}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 3.822950384346768e-05, 'perturbed_score': 0.11545316874980927}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['B-Organization', 'O']], 'original_score': 0.012591627426445484, 'perturbed_score': 0.23133742809295654}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-System'], ['O', 'B-System'], ['O', 'I-System']], 'original_score': 0.02007472701370716, 'perturbed_score': 0.13057290017604828}
+{'Grammatical Errors': 1, 'label_switching': [['B-System', 'O']], 'original_score': 0.039271142333745956, 'perturbed_score': 0.1113116592168808}
+{'Grammatical Errors': 8, 'label_switching': [['O', 'I-Indicator'], ['O', 'I-Indicator']], 'original_score': 0.05388837680220604, 'perturbed_score': 0.12457525730133057}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'I-System'], ['O', 'I-System']], 'original_score': 0.003786647692322731, 'perturbed_score': 0.13168685138225555}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.021135317161679268, 'perturbed_score': 0.17617632448673248}
+{'Grammatical Errors': 5, 'label_switching': [['B-Malware', 'O'], ['O', 'B-Malware'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'B-System'], ['O', 'I-Malware']], 'original_score': 0.0164965633302927, 'perturbed_score': 0.24466434121131897}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Organization'], ['O', 'I-Malware']], 'original_score': 0.00010246400779578835, 'perturbed_score': 0.21276630461215973}
+{'Grammatical Errors': 5, 'label_switching': [['B-Malware', 'B-System'], ['B-Malware', 'B-System'], ['B-Malware', 'B-System'], ['B-Malware', 'B-System']], 'original_score': 0.032117076218128204, 'perturbed_score': 0.16425004601478577}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Organization'], ['O', 'B-Malware']], 'original_score': 0.00011473497579572722, 'perturbed_score': 0.15249668061733246}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Indicator']], 'original_score': 0.001506805419921875, 'perturbed_score': 0.13192667067050934}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 0.017288291826844215, 'perturbed_score': 0.12140344083309174}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Organization'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 6.976265285629779e-05, 'perturbed_score': 0.3084196150302887}
+{'Grammatical Errors': 6, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['B-Indicator', 'I-Indicator']], 'original_score': 0.018418002873659134, 'perturbed_score': 0.32929638028144836}
+{'Grammatical Errors': 8, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 6.754456990165636e-05, 'perturbed_score': 0.14513570070266724}
+{'Grammatical Errors': 3, 'label_switching': [['B-Malware', 'I-Organization'], ['O', 'B-Organization'], ['B-System', 'I-System'], ['O', 'I-System'], ['O', 'I-System'], ['O', 'I-Malware']], 'original_score': 0.023573124781250954, 'perturbed_score': 0.24039992690086365}
+{'Grammatical Errors': 7, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 4.2908959585474804e-05, 'perturbed_score': 0.10724879056215286}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 0.0001628538011573255, 'perturbed_score': 0.10008373856544495}
+{'Grammatical Errors': 2, 'label_switching': [['B-Indicator', 'O'], ['O', 'B-System']], 'original_score': 0.04608608037233353, 'perturbed_score': 0.1889989823102951}
+{'Grammatical Errors': 3, 'label_switching': [['B-Indicator', 'O']], 'original_score': 0.06432528793811798, 'perturbed_score': 0.10020991414785385}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'I-Organization'], ['O', 'I-Organization'], ['O', 'I-Organization'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'B-System']], 'original_score': 0.011001733131706715, 'perturbed_score': 0.2771676778793335}
+{'Grammatical Errors': 7, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 6.082413165131584e-05, 'perturbed_score': 0.10019786655902863}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['B-Malware', 'O'], ['B-Malware', 'O']], 'original_score': 0.033327553421258926, 'perturbed_score': 0.10007233917713165}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'B-System'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'I-System']], 'original_score': 4.284710666979663e-05, 'perturbed_score': 0.22737149894237518}
+{'Grammatical Errors': 3, 'label_switching': [['B-System', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.0001519568613730371, 'perturbed_score': 0.22351641952991486}
+{'Grammatical Errors': 10, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 0.006545170675963163, 'perturbed_score': 0.13282912969589233}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 4.0098686440614983e-05, 'perturbed_score': 0.2674424946308136}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-System']], 'original_score': 0.004903096240013838, 'perturbed_score': 0.10006900131702423}
+{'Grammatical Errors': 3, 'label_switching': [['B-System', 'B-Indicator'], ['O', 'I-Indicator'], ['O', 'I-Indicator'], ['O', 'I-Organization']], 'original_score': 0.022774891927838326, 'perturbed_score': 0.13642765581607819}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Indicator'], ['O', 'B-Indicator']], 'original_score': 0.04101213812828064, 'perturbed_score': 0.2601165175437927}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'I-Indicator'], ['O', 'B-Indicator']], 'original_score': 0.03587210923433304, 'perturbed_score': 0.37372466921806335}
+{'Grammatical Errors': 3, 'label_switching': [['B-Malware', 'O'], ['I-Malware', 'O'], ['O', 'B-Organization']], 'original_score': 0.01608845219016075, 'perturbed_score': 0.10080720484256744}
+{'Grammatical Errors': 6, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.028505824506282806, 'perturbed_score': 0.168890580534935}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Indicator'], ['O', 'I-Indicator']], 'original_score': 0.00044887067633681, 'perturbed_score': 0.3003857433795929}
+{'Grammatical Errors': 6, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 0.010232222266495228, 'perturbed_score': 0.11896093934774399}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware']], 'original_score': 0.0005613170797005296, 'perturbed_score': 0.1019287109375}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 4.839450048166327e-05, 'perturbed_score': 0.10013498365879059}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 5.6471351854270324e-05, 'perturbed_score': 0.22251971065998077}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Indicator']], 'original_score': 0.06367167830467224, 'perturbed_score': 0.24712921679019928}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 0.0037865829654037952, 'perturbed_score': 0.10019903630018234}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Organization'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 5.8040732255904004e-05, 'perturbed_score': 0.23820824921131134}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'I-System']], 'original_score': 0.016093658283352852, 'perturbed_score': 0.11732007563114166}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.00010614118218654767, 'perturbed_score': 0.13064131140708923}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'I-Organization'], ['O', 'I-Organization'], ['O', 'I-Organization']], 'original_score': 5.5650059948675334e-05, 'perturbed_score': 0.12072491645812988}
+{'Grammatical Errors': 7, 'label_switching': [['O', 'B-System'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'B-System']], 'original_score': 7.416150765493512e-05, 'perturbed_score': 0.18993543088436127}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 5.304997102939524e-05, 'perturbed_score': 0.11554696410894394}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-System'], ['O', 'I-System'], ['O', 'B-System'], ['O', 'B-System']], 'original_score': 4.7787358198547736e-05, 'perturbed_score': 0.13455870747566223}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'B-Indicator'], ['O', 'B-Indicator'], ['O', 'I-System']], 'original_score': 0.010040909983217716, 'perturbed_score': 0.12499146908521652}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 4.3888889194931835e-05, 'perturbed_score': 0.166920468211174}
+{'Grammatical Errors': 4, 'label_switching': [['B-Indicator', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 0.01705262064933777, 'perturbed_score': 0.12301180511713028}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 5.524298831005581e-05, 'perturbed_score': 0.14547859132289886}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 4.2088329792022705e-05, 'perturbed_score': 0.1251533180475235}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-System']], 'original_score': 0.0004565310664474964, 'perturbed_score': 0.32585617899894714}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'B-System']], 'original_score': 0.0006568589597009122, 'perturbed_score': 0.20895826816558838}
+{'Grammatical Errors': 7, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 0.0002746421087067574, 'perturbed_score': 0.1515621840953827}
+{'Grammatical Errors': 1, 'label_switching': [['B-System', 'O'], ['O', 'B-Malware']], 'original_score': 0.0006775989895686507, 'perturbed_score': 0.14302188158035278}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-System'], ['O', 'I-System'], ['O', 'I-System']], 'original_score': 0.00020277354633435607, 'perturbed_score': 0.16110076010227203}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['B-System', 'O']], 'original_score': 0.00015732547035440803, 'perturbed_score': 0.1251107007265091}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware']], 'original_score': 0.00016901642084121704, 'perturbed_score': 0.1253911554813385}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'I-System'], ['O', 'I-System'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-System'], ['O', 'I-System']], 'original_score': 6.827318429714069e-05, 'perturbed_score': 0.12068326026201248}
+{'Grammatical Errors': 6, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-System'], ['O', 'I-Malware']], 'original_score': 9.596801828593016e-05, 'perturbed_score': 0.2526346445083618}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 0.00018411356722936034, 'perturbed_score': 0.13076582551002502}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Organization'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 6.700219091726467e-05, 'perturbed_score': 0.11548127233982086}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'B-Organization'], ['O', 'B-Malware'], ['O', 'B-System']], 'original_score': 5.298137693898752e-05, 'perturbed_score': 0.12010879069566727}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'I-Malware'], ['B-Malware', 'O'], ['O', 'B-Malware']], 'original_score': 0.02729552425444126, 'perturbed_score': 0.11937329918146133}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.00014387186092790216, 'perturbed_score': 0.16128204762935638}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 0.00010359510633861646, 'perturbed_score': 0.10009109973907471}
+{'Grammatical Errors': 6, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.00011642016761470586, 'perturbed_score': 0.23537400364875793}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'I-Vulnerability'], ['O', 'B-Vulnerability'], ['O', 'B-Vulnerability']], 'original_score': 0.008376686833798885, 'perturbed_score': 0.14293651282787323}
+{'Grammatical Errors': 4, 'label_switching': [['B-Malware', 'O'], ['I-Malware', 'O']], 'original_score': 0.024249311536550522, 'perturbed_score': 0.10009373724460602}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 6.956673314562067e-05, 'perturbed_score': 0.12507644295692444}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 5.2216862968634814e-05, 'perturbed_score': 0.2518373131752014}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'B-System'], ['O', 'I-System']], 'original_score': 7.944564276840538e-05, 'perturbed_score': 0.12007587403059006}
+{'Grammatical Errors': 8, 'label_switching': [['O', 'B-System'], ['O', 'I-Organization'], ['O', 'I-Organization'], ['O', 'B-System']], 'original_score': 0.011840473860502243, 'perturbed_score': 0.1318240910768509}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware']], 'original_score': 0.04766553267836571, 'perturbed_score': 0.15996196866035461}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization']], 'original_score': 0.02268301323056221, 'perturbed_score': 0.12788744270801544}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 4.741853990708478e-05, 'perturbed_score': 0.2619905471801758}
+{'Grammatical Errors': 2, 'label_switching': [['B-Malware', 'O'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'I-System'], ['O', 'B-System'], ['O', 'I-System']], 'original_score': 0.02652209997177124, 'perturbed_score': 0.40018704533576965}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 0.00015343559789471328, 'perturbed_score': 0.11440033465623856}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization']], 'original_score': 0.01926591619849205, 'perturbed_score': 0.12703971564769745}
+{'Grammatical Errors': 4, 'label_switching': [['B-Malware', 'O'], ['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'I-Organization']], 'original_score': 0.011458243243396282, 'perturbed_score': 0.10828929394483566}
+{'Grammatical Errors': 2, 'label_switching': [['B-Malware', 'O']], 'original_score': 0.047978613525629044, 'perturbed_score': 0.11131611466407776}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.03506588190793991, 'perturbed_score': 0.20318499207496643}
+{'Grammatical Errors': 2, 'label_switching': [['B-Organization', 'O'], ['I-Organization', 'I-System']], 'original_score': 0.050455015152692795, 'perturbed_score': 0.13398484885692596}
+{'Grammatical Errors': 3, 'label_switching': [['B-Organization', 'I-Malware'], ['I-Organization', 'I-Malware']], 'original_score': 0.05852251499891281, 'perturbed_score': 0.14711466431617737}
+{'Grammatical Errors': 2, 'label_switching': [['B-Malware', 'O'], ['O', 'B-System'], ['O', 'I-System']], 'original_score': 0.04830408841371536, 'perturbed_score': 0.34228506684303284}
+{'Grammatical Errors': 3, 'label_switching': [['B-Malware', 'O'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 0.018152287229895592, 'perturbed_score': 0.11116338521242142}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-System'], ['O', 'B-System'], ['O', 'I-System']], 'original_score': 5.272826456348412e-05, 'perturbed_score': 0.13054104149341583}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Malware']], 'original_score': 7.83264622441493e-05, 'perturbed_score': 0.10012700408697128}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-System'], ['O', 'I-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 5.1223683840362355e-05, 'perturbed_score': 0.1027170717716217}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 4.857146632275544e-05, 'perturbed_score': 0.12513244152069092}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 5.923850039835088e-05, 'perturbed_score': 0.10004115104675293}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Organization']], 'original_score': 0.006906882859766483, 'perturbed_score': 0.16826532781124115}
+{'Grammatical Errors': 5, 'label_switching': [['O', 'I-Malware'], ['O', 'B-Malware'], ['I-Indicator', 'O']], 'original_score': 0.07295052707195282, 'perturbed_score': 0.2693138122558594}
+{'Grammatical Errors': 9, 'label_switching': [['O', 'B-System'], ['O', 'I-System'], ['O', 'I-System'], ['O', 'I-Malware'], ['O', 'B-System'], ['O', 'I-System'], ['O', 'I-System']], 'original_score': 4.869360782322474e-05, 'perturbed_score': 0.13201582431793213}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['B-System', 'O']], 'original_score': 0.00013799965381622314, 'perturbed_score': 0.1157153993844986}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization']], 'original_score': 7.565238047391176e-05, 'perturbed_score': 0.20110514760017395}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 0.005679167807102203, 'perturbed_score': 0.11785443872213364}
+{'Grammatical Errors': 12, 'label_switching': [['O', 'I-Malware'], ['O', 'B-Malware'], ['I-System', 'I-Malware'], ['O', 'B-Malware'], ['O', 'I-System'], ['O', 'I-System'], ['O', 'I-System'], ['O', 'I-System'], ['O', 'I-System']], 'original_score': 0.0003749114111997187, 'perturbed_score': 0.1103273257613182}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'I-Malware']], 'original_score': 0.015292569063603878, 'perturbed_score': 0.13868704438209534}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 4.5712789869867265e-05, 'perturbed_score': 0.13697855174541473}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.01791894994676113, 'perturbed_score': 0.15553756058216095}
+{'Grammatical Errors': 8, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'B-Malware']], 'original_score': 0.01253498811274767, 'perturbed_score': 0.13887576758861542}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Organization'], ['O', 'I-Malware']], 'original_score': 0.02068653702735901, 'perturbed_score': 0.18828639388084412}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-Malware'], ['O', 'I-Malware']], 'original_score': 0.055735886096954346, 'perturbed_score': 0.18986386060714722}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'I-Organization']], 'original_score': 7.719298446318135e-05, 'perturbed_score': 0.2503181993961334}
+{'Grammatical Errors': 7, 'label_switching': [['O', 'B-Malware'], ['O', 'I-System'], ['O', 'I-System'], ['B-Organization', 'B-System'], ['O', 'I-System'], ['B-Organization', 'B-System']], 'original_score': 0.006879886612296104, 'perturbed_score': 0.11883159726858139}
+{'Grammatical Errors': 3, 'label_switching': [['O', 'B-System'], ['O', 'I-System']], 'original_score': 0.013517743907868862, 'perturbed_score': 0.10009113699197769}
+{'Grammatical Errors': 1, 'label_switching': [['O', 'I-Organization'], ['O', 'I-Organization'], ['O', 'B-Organization'], ['O', 'I-Organization']], 'original_score': 8.266069198725745e-05, 'perturbed_score': 0.21750037372112274}
+{'Grammatical Errors': 4, 'label_switching': [['O', 'B-Malware'], ['O', 'B-Malware'], ['O', 'I-Malware'], ['O', 'B-Malware']], 'original_score': 4.332956814323552e-05, 'perturbed_score': 0.1220092922449112}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-System'], ['O', 'I-Malware'], ['O', 'B-System']], 'original_score': 0.0002063827560050413, 'perturbed_score': 0.20052579045295715}
+{'Grammatical Errors': 4, 'label_switching': [['B-Malware', 'O'], ['O', 'B-Malware']], 'original_score': 0.021589454263448715, 'perturbed_score': 0.10660231858491898}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-System'], ['O', 'I-System']], 'original_score': 0.00026764237554743886, 'perturbed_score': 0.15111307799816132}
+{'Grammatical Errors': 6, 'label_switching': [['O', 'B-Organization'], ['O', 'I-Organization'], ['O', 'B-Malware']], 'original_score': 5.3283478337107226e-05, 'perturbed_score': 0.10720454156398773}
+{'Grammatical Errors': 3, 'label_switching': [['B-Malware', 'O'], ['I-Malware', 'O']], 'original_score': 0.017118113115429878, 'perturbed_score': 0.11816895753145218}
+{'Grammatical Errors': 2, 'label_switching': [['O', 'B-System'], ['O', 'B-Malware']], 'original_score': 0.0008569966303184628, 'perturbed_score': 0.18140056729316711}

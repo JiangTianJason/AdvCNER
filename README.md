@@ -1,6 +1,6 @@
 # AdvCNER (Adversarial Cybersecurity NER)
 
-[![dataet: released](https://img.shields.io/badge/dataset-released-green.svg)]((https://github.com/JiangTianJason/AdvCNER/tree/main/SeqAttack/datasets/mitre))
+[![dataet: released](https://img.shields.io/badge/dataset-released-green.svg)](https://github.com/JiangTianJason/AdvCNER/tree/main/SeqAttack/datasets/mitre)
 
 ## :flying_saucer:Setup
 The code was tested with `python 3.8`, if you're using a different version your mileage may vary.

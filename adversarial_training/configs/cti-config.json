@@ -1,0 +1,6 @@
+{
+    "name": "SeqAttack/datasets/mitre/train.json",
+    "split": "train",
+    "labels": ["B-Malware", "O", "B-Indicator", "I-Indicator", "B-System", "I-System","B-Organization", "I-Malware", "I-Organization", "B-Vulnerability", "I-Vulnerability"],
+    "labels_map": null
+}
